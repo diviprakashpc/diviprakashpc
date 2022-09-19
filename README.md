@@ -2,7 +2,7 @@
 <!--[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)-->
 ## Your short description
 - 🔭 I’m currently working on - Chat application using MERN stack.
-- 🌱 I’m currently learning - 
+- 🌱 I’m currently learning - Web Development.
 - 👯 I’m looking to collaborate with - anyone who matches my interests.
 - 💬 Ask me about -  ReactJS and backend development.
 - 🥅 2022 Goal - Work in a team and contribute to an open source project.
