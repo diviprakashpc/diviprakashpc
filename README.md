@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on - Chat application using MERN stack.
 - 🌱 I’m currently learning - Web Development.
 - 👯 I’m looking to collaborate with - anyone who matches my interests.
-- 💬 Ask me about -  ReactJS and backend development.
+- 💬 Ask me about -  Javascript, Java, ReactJS, NodeJs. Overall you can ask me anything regarding Web Development and Data Structures&Algorithms.
 - 🥅 2022 Goal - Work in a team and contribute to an open source project.
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
