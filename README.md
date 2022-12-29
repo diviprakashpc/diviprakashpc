@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning - Firebase.
 - 👯 I’m looking to collaborate with - anyone who matches my interests.
 - 💬 Ask me about -  You can ask me anything regarding Web Development and Data Structures&Algorithms.
-- 🥅 2022 Goal - Work in a team and contribute to an open source project.
+- 🥅 2023 Goal - Work in a team and contribute to an open source project.
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![DivyaPrakash's github stats](https://github-readme-stats.vercel.app/api?username=diviprakashpc&count_private=true&include_all_commits=true&theme=radical)](https://github.com/diviprakashpc?tab=repositories)
