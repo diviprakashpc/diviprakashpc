@@ -1,7 +1,7 @@
 ### Hi, I'm Divya Prakash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)-->
 ## Your short description
-- 🔭 I’m currently working as SDE Intern at Kreditbee.
+- 🔭 I’m currently working as SDE at Kreditbee.
 - 🌱 I’m currently learning - Golang and ReactJS.
 - 👯 I’m looking to collaborate with - anyone who matches my interests.
 - 💬 Ask me about -  You can ask me anything regarding Web Development and Data Structures&Algorithms.
